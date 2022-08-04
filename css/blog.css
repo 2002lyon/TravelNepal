@@ -198,12 +198,12 @@
     margin-top: -.5rem;
 }
 
-#blog-info .line{
+#blog-info .line {
     /* border: 1px solid red; */
     width: 9%;
     height: 2px;
     background-color: #000;
-    /* margin-top: 0px; */
+    margin-top: .4rem;
     position: relative;
 }
 
@@ -270,6 +270,7 @@
     padding-bottom: 3rem;
     background-color: #F4F4F4;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 .title-genre{
@@ -282,12 +283,14 @@
     justify-content: center;
     top: 0;
     right: 0;
+    
 }
 
 .title-genre span{
     color: #fff;
     font-size: 1.2rem;
     text-transform: capitalize;
+    cursor: pointer;
 }
 
 .box-time{
