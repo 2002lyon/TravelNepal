@@ -229,13 +229,13 @@
     flex-wrap: wrap;
 }
 
-.blog-box{
+.blog-box {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     width: 28rem;
-    height: auto;
+    height: 44rem;
     text-align: center;
     /* border: 1px solid red; */
     position: relative;
@@ -264,15 +264,14 @@
     object-position: center;
 }   
 
-.blog-box h6{
+.blog-box h6 {
     font-size: 1.4rem;
     padding: .3rem 2rem;
-    padding-bottom: 3rem;
+    padding-bottom: 4rem;
     background-color: #F4F4F4;
     text-transform: uppercase;
     cursor: pointer;
 }
-
 .title-genre{
     position: absolute;
     background-color: #CE6F00;
