@@ -235,7 +235,7 @@
     align-items: center;
     justify-content: center;
     width: 28rem;
-    height: 44rem;
+    height: auto;
     text-align: center;
     /* border: 1px solid red; */
     position: relative;
@@ -297,7 +297,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom: 0rem;
+    bottom: 0.8rem;
     left: 1.5rem;
     
 }
@@ -327,7 +327,7 @@
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom: 0rem;
+    bottom: 0.8rem;
     right: 1.5rem;
 }
 
