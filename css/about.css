@@ -138,8 +138,8 @@
     object-position: center;
     z-index: -1;
     opacity: 1;
-    border-bottom-left-radius: 100px;
-    border-bottom-right-radius: 100px;
+    /* border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px; */
 }
 
 /* ------------------------about-title------------------------ */
